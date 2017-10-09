@@ -11,7 +11,7 @@ For API details and how to use promises, see the <a href="http://www.html5rocks.
 * [es6-promise-min 6.17 KB (2.4 KB gzipped)](https://raw.githubusercontent.com/stefanpenner/es6-promise/master/dist/es6-promise.min.js)
 * [es6-promise-auto-min 6.19 KB (2.4 KB gzipped)](https://raw.githubusercontent.com/stefanpenner/es6-promise/master/dist/es6-promise.auto.min.js) - Minified version of `es6-promise-auto` above.
 
-## CDN 
+## CDN [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/es6-promise/badge?style=rounded)](https://www.jsdelivr.com/package/npm/es6-promise)
 
 To use via a CDN include this in your html:
 
